@@ -1,0 +1,51 @@
+body { 
+    font-family: "arial";
+    background-color: #444444;
+    color: white;
+
+ }
+ 
+#fotabla {
+    width: 1000px;
+    height: 600px;
+    background-image: url(images/powerhatter.jpg);
+ }
+ 
+
+ table {
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+.cim {
+    font-size: 18px;
+    border-bottom: 1px dotted;
+    border-color: yellow;
+    font-weight: bold;
+}
+
+.cim2 {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.footer li {
+    list-style:none;
+    display: inline;
+    margin-right: 10px;
+    font-size: 12px;
+}
+.footer ul {
+    text-align: center;
+}
+
+a:link, a:active, a:hover, a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+.cim2 a:link, .cim2 a:active, .cim2 a:hover, .cim2 a:visited {
+    text-decoration: none;
+    color: yellow;
+    color: yellow;
+}

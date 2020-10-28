@@ -1,0 +1,167 @@
+body { 
+    font-family: "arial";
+    background-color: #444444;
+    color: white;
+
+ }
+ 
+#fotabla {
+    width: 1000px;
+    height: 650px;
+    background-image: url(images/powerhatter.jpg);
+ }
+
+
+.cim {
+    font-size: 16px;
+    border-color: yellow;
+    font-weight: bold;
+}
+.footer li {
+    list-style:none;
+    display: inline;
+    margin-right: 10px;
+    font-size: 12px;
+}
+.footer ul {
+    text-align: center;
+}
+
+a:link, a:active, a:hover, a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+
+form label {
+	display: inline-block;
+	width: 200px;
+}
+
+form {
+	font-size: 14px;
+}
+
+select {
+    font-size: 14px;
+}
+
+table {
+    border-spacing: 0;
+    border-collapse: collapse;
+	text-align: right;
+    font-size: 14px;
+}
+
+.fek_fek {
+	background-image: url(images/kar/karblack.png);
+	background-position: top left;
+	background-repeat: no-repeat;
+}
+
+.fek_feh {
+	background-image: url(images/kar/karblackfeher.png);
+	background-position: top left;
+	background-repeat: no-repeat;
+}
+
+.fek_sar {
+	background-image: url(images/kar/karblacksarga.png);
+	background-position: top left;
+	background-repeat: no-repeat;
+}
+
+.kek_feh {
+	background-image: url(images/kar/karblue.png);
+	background-position: top left;
+	background-repeat: no-repeat;
+}
+
+.teg_feh {
+	background-image: url(images/kar/karbrick.png);
+	background-position: top left;
+	background-repeat: no-repeat;
+}
+
+.cle_feh {
+	background-image: url(images/kar/karclear.png);
+	background-position: top left;
+	background-repeat: no-repeat;
+}
+
+.cle_pin {
+	background-image: url(images/kar/karclearpink.png);
+	background-position: top left;
+	background-repeat: no-repeat;
+}
+
+.gre_feh {
+	background-image: url(images/kar/kargreen.png);
+	background-position: top left;
+	background-repeat: no-repeat;
+}
+
+.grey_feh {
+	background-image: url(images/kar/kargrey.png);
+	background-position: top left;
+	background-repeat: no-repeat;
+}
+
+.ora_feh {
+	background-image: url(images/kar/karorange.png);
+	background-position: top left;
+	background-repeat: no-repeat;
+}
+
+.pin_feh {
+	background-image: url(images/kar/karpink.png);
+	background-position: top left;
+	background-repeat: no-repeat;
+}
+
+.red_feh {
+	background-image: url(images/kar/karred.png);
+	background-position: top left;
+	background-repeat: no-repeat;
+}
+
+.whi_fek {
+	background-image: url(images/kar/karwhite.png);
+	background-position: top left;
+	background-repeat: no-repeat;
+}
+
+.whi_feh {
+	background-image: url(images/kar/karwhitefeher.png);
+	background-position: top left;
+	background-repeat: no-repeat;
+}
+
+.whi_gre {
+	background-image: url(images/kar/karwhitezold.png);
+	background-position: top left;
+	background-repeat: no-repeat;
+}
+
+.yel_fek {
+	background-image: url(images/kar/karyellow.png);
+	background-position: top left;
+	background-repeat: no-repeat;
+}
+
+.hibaüzi {
+    text-align: center;
+    color: yellow;
+    font-weight: bold;
+    text-decoration: blink;
+    
+}
+
+label {
+    text-align: right;
+}
+
+.submit {
+    text-align: center;
+}
+

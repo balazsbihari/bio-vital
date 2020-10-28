@@ -1,0 +1,46 @@
+.cim {
+	font-size: ;
+	font-style: ;
+	border-bottom: 1px dotted;
+	border-color: yellow;
+}
+
+.szoveg {
+	text-align: left;
+}
+
+
+.karkoto {
+	float: left;
+	margin-top: 16px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.szoveg2 {
+	text-align: left;
+}
+
+
+.ronaldo {
+	float: right;
+	margin-top: 16px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+p a:link, p a:active, p a:hover, p a:visited {
+	text-decoration: none;
+	color: yellow;
+}
+
+.kosar {
+    float: left;
+    margin-left: 150px;
+        
+}
+
+.poker {
+    float: right;
+    margin-right: 150px;
+}

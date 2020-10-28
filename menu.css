@@ -1,0 +1,78 @@
+body {
+	background-color: #444444; 
+	font-family: "arial";
+	margin-top: 10px;
+}
+
+#fotabla {
+	
+	height: 120px;
+ }
+ 
+table {
+	border-spacing: 0;
+	border-collapse: collapse;
+}
+ 
+
+#home a {
+	background-image: url(images/menu/home.png);
+	width: 135px;
+	height: 40px;
+	display: block;
+	color: transparent;
+}
+
+#home a:hover {
+	background-position:left bottom;
+}
+
+#power  a {
+	background-image: url(images/menu/powerbalance.png);
+	width: 135px;
+	height: 40px;
+	display: block;
+	color: transparent;
+}
+
+#power a:hover {
+	background-position:left bottom;
+}
+
+#team a {
+	background-image: url(images/menu/team.png);
+	width: 135px;
+	height: 40px;
+	display: block;
+	color: transparent;
+}
+
+#team a:hover {
+	background-position:left bottom;
+}
+
+#shop a {
+	background-image: url(images/menu/shop.png);
+	width: 135px;
+	height: 40px;
+	display: block;
+	color: transparent;
+}
+
+#shop a:hover {
+	background-position:left bottom;
+}
+
+#contact a {
+	background-image: url(images/menu/contact.png);
+	width: 135px;
+	height: 40px;
+	display: block;
+	color:transparent;
+}
+
+#contact a:hover {
+	background-position:left bottom;
+}
+
+

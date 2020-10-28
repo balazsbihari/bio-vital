@@ -1,0 +1,92 @@
+body { 
+	font-family: "arial";
+	background-color: #444444;
+	color: white;
+
+ }
+ 
+#fotabla {
+	width: 1000px;
+	height: 800px;
+	background-image: url(images/powerhatter.jpg);
+ }
+ 
+
+ table {
+	border-spacing: 0;
+	border-collapse: collapse;
+}
+
+.cim {
+	font-size: 16px;
+    border-bottom: 1px dotted;
+	border-color: yellow;
+	font-weight: bold;
+}
+
+.cim2 {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.footer li {
+	list-style:none;
+	display: inline;
+	margin-right: 10px;
+	font-size: 12px;
+}
+.footer ul {
+	text-align: center;
+}
+
+a:link, a:active, a:hover, a:visited {
+	text-decoration: none;
+	color: white;
+}
+
+.szoveg {
+    text-align: left;
+}
+
+
+.szoveg img {
+    float: left;
+    margin-top: 16px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.szoveg2 {
+    text-align: left;
+}
+
+
+.robert_de_niro {
+    float: right;
+    margin-top: 16px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.schumi {
+    float: left;
+    margin-left: 10px;
+}
+
+.foci {
+    margin-left: 13px;
+}
+
+.tesztek1 {
+    float: left;
+    margin-top: 16px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.tesztek2 {
+    float: left;
+    margin-top: 16px;
+    margin-left: 10px;
+    margin-right: 10px;
+}

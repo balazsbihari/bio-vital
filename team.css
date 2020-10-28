@@ -1,0 +1,193 @@
+body { 
+    font-family: "arial";
+    background-color: #444444;
+    color: white;
+
+ }
+ 
+#fotabla {
+    width: 1000px;
+    height: 600px;
+    background-image: url(images/powerhatter.jpg);
+ }
+ 
+
+ table {
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+.cim {
+    border-color: yellow;
+    font-weight: bold;
+}
+.footer li {
+    list-style:none;
+    display: inline;
+    margin-right: 10px;
+    font-size: 12px;
+}
+.footer ul {
+    text-align: center;
+}
+
+a:link, a:active, a:hover, a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+table td {
+	font-size: 12px;
+	width: 160px;
+	text-align: center;
+}
+
+.power {
+	font-size: 16px;
+    border-bottom: 1px dotted;
+    border-color: yellow;
+}
+
+.andrew {
+	background-image: url(images/sportolok/andrew_ference_hoki.jpg);
+	background-position: bottom center;
+	background-repeat: no-repeat;
+}
+
+.andy{
+	background-image: url(images/sportolok/andy_irons_szorf.jpg);
+	background-position: bottom center;
+	background-repeat: no-repeat;
+}
+
+.bret {
+	background-image: url(images/sportolok/bret_simpson_szorf.jpg);
+	background-position: bottom center;
+	background-repeat: no-repeat;
+}
+
+.bruce {
+	background-image: url(images/sportolok/bruce_irons_szorf.jpg);
+	background-position: bottom center;
+	background-repeat: no-repeat;
+}
+
+.casey {
+	background-image: url(images/sportolok/casey_patterson_roplabda.jpg);
+	background-position: bottom center;
+	background-repeat: no-repeat;
+}
+
+.courtney {
+	background-image: url(images/sportolok/courtney_conlogue_szorf.jpg);
+	background-position: bottom center;
+	background-repeat: no-repeat;
+}
+
+.ekolu {
+	background-image: url(images/sportolok/ekolu_kalama_paddleboard.jpg);
+	background-position: bottom center;
+	background-repeat: no-repeat;
+}
+
+.forest {
+	background-image: url(images/sportolok/forest_sheare_snowboard.jpg);
+	background-position: bottom center;
+	background-repeat: no-repeat;
+}
+
+.lamar {
+	background-image: url(images/sportolok/lamar_odom_kosar.jpg);
+	background-position: bottom center;
+	background-repeat: no-repeat;
+}
+
+.lauren {
+	background-image: url(images/sportolok/lauren_perkins_gordeszka.jpg);
+	background-position: bottom center;
+	background-repeat: no-repeat;
+}
+
+.matt {
+	background-image: url(images/sportolok/matt_stafford_foci.jpg);
+	background-position: bottom center;
+	background-repeat: no-repeat;
+}
+
+.pete {
+	background-image: url(images/sportolok/pete_smolik_gordeszka.jpg);
+	background-position: bottom center;
+	background-repeat: no-repeat;
+}
+
+.pri {
+	background-image: url(images/sportolok/pri_lima_roplabda.jpg);
+	background-position: bottom center;
+	background-repeat: no-repeat;
+}
+
+.ricky {
+	background-image: url(images/sportolok/ricky_romero_baseball.jpg);
+	background-position: bottom center;
+	background-repeat: no-repeat;
+}
+
+.rubens {
+	background-image: url(images/sportolok/rubens_barrichello_forma1.jpg);
+	background-position: bottom center;
+	background-repeat: no-repeat;
+}
+
+.ryan {
+	background-image: url(images/sportolok/ryan_mariano_roplabda.jpg);
+	background-position: bottom center;
+	background-repeat: no-repeat;
+}
+
+.scott_k {
+	background-image: url(images/sportolok/scott_kazmir_baseball.jpg);
+	background-position: bottom center;
+	background-repeat: no-repeat;
+}
+
+.scott_s {
+	background-image: url(images/sportolok/scott_smith_golf.jpg);
+	background-position: bottom center;
+	background-repeat: no-repeat;
+}
+
+.shane {
+	background-image: url(images/sportolok/shane_del_rosario_kickbox.jpg);
+	background-position: bottom center;
+	background-repeat: no-repeat;
+}
+
+.shaquille {
+	background-image: url(images/sportolok/shaquille_oneal_kosar.jpg);
+	background-position: bottom center;
+	background-repeat: no-repeat;
+}
+
+.teemu {
+	background-image: url(images/sportolok/teemu_selanne_hoki.jpg);
+	background-position: bottom center;
+	background-repeat: no-repeat;
+}
+
+.todd {
+	background-image: url(images/sportolok/todd_rogers_roplabda.jpg);
+	background-position: bottom center;
+	background-repeat: no-repeat;
+}
+
+.trevor {
+	background-image: url(images/sportolok/trevor_ariza_kosar.jpg);
+	background-position: bottom center;
+	background-repeat: no-repeat;
+}
+
+.willow {
+	background-image: url(images/sportolok/willow_koerber_mountenbike.jpg);
+	background-position: bottom center;
+	background-repeat: no-repeat;
+}
